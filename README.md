@@ -14,7 +14,8 @@ In the homepage there are various sections like the description, testimonials, f
 ![Screenshot (51)](https://user-images.githubusercontent.com/76652187/200955587-5e0de96a-db10-4534-b5c2-385401c1fb34.png)
 
 clicking on get in touch will take the user to the Contact us page.
-![Uploading Screenshot (47).png…]()
+![Screenshot (47)](https://user-images.githubusercontent.com/76652187/200956088-7339fccc-276a-4ff1-90d4-557184ca29c5.png)
+
 
 User has to fill the details and then click on submit. The data gets stored in the database.
 ![Screenshot (44)](https://user-images.githubusercontent.com/76652187/200955786-1485d291-39b1-458c-b504-783e7933ecac.png)
